@@ -1,0 +1,35 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           none
+
+# Setup
+title:               Pandaxyz
+tagline:             
+description:         'Fullstack developer'
+url:                 http://pandaxyz-xd.github.io
+baseurl:             ''
+
+# About/contact
+author:
+  name:              Pandaxyz
+  url:               http://pandaxyz-xd.github.io
+  email:             adao.raul@gmail.com
+
+version:             0.0.1
+
+include:
+  - _pages
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  
+gems:
+  - sass
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji

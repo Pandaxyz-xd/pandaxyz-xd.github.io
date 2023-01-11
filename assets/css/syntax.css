@@ -1,0 +1,74 @@
+/*
+
+    Name:       Base16 Atelier Cave Dark
+    Author:     Bram de Haan (http://atelierbram.github.io/syntax-highlighting/atelier-schemes/cave)
+
+    Pygments template by Jan T. Sott (https://github.com/idleberg)
+    Created with Base16 Builder by Chris Kempson (https://github.com/chriskempson/base16-builder)
+
+*/
+.highlight .hll { background-color: #585260 }
+.highlight  { background: #19171c; color: #efecf4 }
+.highlight .c { color: #655f6d } /* Comment */
+.highlight .err { color: #be4678 } /* Error */
+.highlight .k { color: #955ae7 } /* Keyword */
+.highlight .l { color: #aa573c } /* Literal */
+.highlight .n { color: #efecf4 } /* Name */
+.highlight .o { color: #398bc6 } /* Operator */
+.highlight .p { color: #efecf4 } /* Punctuation */
+.highlight .cm { color: #655f6d } /* Comment.Multiline */
+.highlight .cp { color: #655f6d } /* Comment.Preproc */
+.highlight .c1 { color: #655f6d } /* Comment.Single */
+.highlight .cs { color: #655f6d } /* Comment.Special */
+.highlight .gd { color: #be4678 } /* Generic.Deleted */
+.highlight .ge { font-style: italic } /* Generic.Emph */
+.highlight .gh { color: #efecf4; font-weight: bold } /* Generic.Heading */
+.highlight .gi { color: #2a9292 } /* Generic.Inserted */
+.highlight .gp { color: #655f6d; font-weight: bold } /* Generic.Prompt */
+.highlight .gs { font-weight: bold } /* Generic.Strong */
+.highlight .gu { color: #398bc6; font-weight: bold } /* Generic.Subheading */
+.highlight .kc { color: #955ae7 } /* Keyword.Constant */
+.highlight .kd { color: #955ae7 } /* Keyword.Declaration */
+.highlight .kn { color: #398bc6 } /* Keyword.Namespace */
+.highlight .kp { color: #955ae7 } /* Keyword.Pseudo */
+.highlight .kr { color: #955ae7 } /* Keyword.Reserved */
+.highlight .kt { color: #a06e3b } /* Keyword.Type */
+.highlight .ld { color: #2a9292 } /* Literal.Date */
+.highlight .m { color: #aa573c } /* Literal.Number */
+.highlight .s { color: #2a9292 } /* Literal.String */
+.highlight .na { color: #576ddb } /* Name.Attribute */
+.highlight .nb { color: #efecf4 } /* Name.Builtin */
+.highlight .nc { color: #a06e3b } /* Name.Class */
+.highlight .no { color: #be4678 } /* Name.Constant */
+.highlight .nd { color: #398bc6 } /* Name.Decorator */
+.highlight .ni { color: #efecf4 } /* Name.Entity */
+.highlight .ne { color: #be4678 } /* Name.Exception */
+.highlight .nf { color: #576ddb } /* Name.Function */
+.highlight .nl { color: #efecf4 } /* Name.Label */
+.highlight .nn { color: #a06e3b } /* Name.Namespace */
+.highlight .nx { color: #576ddb } /* Name.Other */
+.highlight .py { color: #efecf4 } /* Name.Property */
+.highlight .nt { color: #398bc6 } /* Name.Tag */
+.highlight .nv { color: #be4678 } /* Name.Variable */
+.highlight .ow { color: #398bc6 } /* Operator.Word */
+.highlight .w { color: #efecf4 } /* Text.Whitespace */
+.highlight .mf { color: #aa573c } /* Literal.Number.Float */
+.highlight .mh { color: #aa573c } /* Literal.Number.Hex */
+.highlight .mi { color: #aa573c } /* Literal.Number.Integer */
+.highlight .mo { color: #aa573c } /* Literal.Number.Oct */
+.highlight .sb { color: #2a9292 } /* Literal.String.Backtick */
+.highlight .sc { color: #efecf4 } /* Literal.String.Char */
+.highlight .sd { color: #655f6d } /* Literal.String.Doc */
+.highlight .s2 { color: #2a9292 } /* Literal.String.Double */
+.highlight .se { color: #aa573c } /* Literal.String.Escape */
+.highlight .sh { color: #2a9292 } /* Literal.String.Heredoc */
+.highlight .si { color: #aa573c } /* Literal.String.Interpol */
+.highlight .sx { color: #2a9292 } /* Literal.String.Other */
+.highlight .sr { color: #2a9292 } /* Literal.String.Regex */
+.highlight .s1 { color: #2a9292 } /* Literal.String.Single */
+.highlight .ss { color: #2a9292 } /* Literal.String.Symbol */
+.highlight .bp { color: #efecf4 } /* Name.Builtin.Pseudo */
+.highlight .vc { color: #be4678 } /* Name.Variable.Class */
+.highlight .vg { color: #be4678 } /* Name.Variable.Global */
+.highlight .vi { color: #be4678 } /* Name.Variable.Instance */
+.highlight .il { color: #aa573c } /* Literal.Number.Integer.Long */

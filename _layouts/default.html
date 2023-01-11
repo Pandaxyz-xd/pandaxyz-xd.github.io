@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+    <div class="container">
+      <header class="masthead">
+        <i class="fa fa-bars menu" aria-hidden="true"></i>
+        <a href="{{ site.baseurl }}/" title="Home">
+          <img src="../assets/img/pandaxyz.jpeg" alt="Pandaxyz">
+        </a>
+      </header>
+      
+      {% include sidebar.html %}
+      
+      <main>
+        {{ content }}
+      </main>
+      
+      {% include footer.html %}
+    </div>
+    <script type="text/javascript" src="../assets/js/application.js"></script>
+  </body>
+</html>
